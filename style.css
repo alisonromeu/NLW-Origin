@@ -429,6 +429,7 @@ nav.show div.icon-close {
 .swiper-pagination-bullet {
   width: 0.75rem;
   height: 0.75rem;
+  display: none;
 }
 
 .swiper-pagination-bullet-active {
